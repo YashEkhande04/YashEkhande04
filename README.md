@@ -2,7 +2,7 @@
 🧠 Passionate about Electronics | ⚡ Custom ICs | 🛠️ PCB Design | 🔍 RTL + VLSI<br><br>
 Hey there! I’m **Yash Ekhande**, a Final Year B.Tech student in **Electronics & Computer Engineering** at **K.J. Somaiya College of Engineering, Mumbai**. I specialize in building things that start from a **datasheet and end on a real circuit board** 🔌.<br><br>
 
-🔬 **Intern @ FOSSEE, IIT Bombay**  <br>
+🔬 **Interned @ FOSSEE, IIT Bombay**  <br>
 • Designed and simulated 11 CMOS-based ICs using eSim (SPICE-based).  <br>
 • Created custom subcircuits (CD4078B, Schmitt Trigger, Op-Amps, etc.)  <br>
 • Built pulse-driven testbenches, waveform analysis, and symbol files.  <br><br>
